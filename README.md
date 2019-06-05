@@ -1,5 +1,5 @@
 # Creating and Inserting DOM Nodes
-
+#
 ## Problem Statement
 
 We can find and select nodes in the DOM. But now we want to do more. What if we
